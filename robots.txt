@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bestben10cosplay.netlify.app/sitemap.xml
